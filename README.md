@@ -131,6 +131,16 @@ FMCW-RADAR-PROJECT
 │
 ├── GNU RADIO
 │   └── GNU Radio flowgraph files
+
+## 📂 Radar Data
+
+The 'DATA' folder contains binary '.dat' files generated from the GNU Radio FMCW radar flowgraph.
+
+These files contain the recorded beat-signal samples for different simulated target delays.
+
+The '.dat' files are binary data and therefore may not display as readable text directly on GitHub.
+
+They can be read and processed using the GNU Octave scripts provided in the 'GNU OCTAVE' folder.
 │
 ├── .gitignore
 └── README.md
