@@ -144,3 +144,28 @@ They can be read and processed using the GNU Octave scripts provided in the 'GNU
 │
 ├── .gitignore
 └── README.md
+
+## ▶️ HOW TO RUN THE CODES
+
+### Requirements
+
+- GNU Octave
+- GNU Radio (for generating the radar data)
+- The `.dat` files available in the `DATA` folder
+
+---
+
+### Step 1: Download the Repository
+
+Download or clone this repository from GitHub.
+
+Make sure the following folders remain in the same project structure:
+
+```text
+FMCW-RADAR-PROJECT
+│
+├── DATA
+├── GNU OCTAVE
+├── GNU RADIO
+├── BLOCK DIAGRAM
+└── DOCUMENTATION
